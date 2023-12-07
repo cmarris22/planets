@@ -1,2 +1,3 @@
  #Mars is red and dusty
-#There is no water. 
+#There is no water.
+#Mars does not have a magnetic field because its core is solid 
