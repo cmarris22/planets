@@ -1,1 +1,2 @@
-Earth has lots of water and it has a moon. Earth has a magnetic field. Earth has plants. Earth has mountains and volcanoes.  
+<<<<<<< HEAD
+Earth has lots of water and it has a moon. Earth has a magnetic field. Earth has plants. Earth has mountains and volcanoes. Earth has animals.
